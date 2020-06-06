@@ -189,7 +189,7 @@
   border: 4px solid #fff;
 }
 .icon-tv::after {
-  background-image: url(/img/tv.png);
+  background-image: url(../img/tv.png);
   background-color: #ff4e50;
 }
 
